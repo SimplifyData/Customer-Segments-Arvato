@@ -1,7 +1,7 @@
 # Customer Segmention of Arvfato Data
 Analyze customers using unsupervised learning, PCA and K-Mean Clustering
 
-##Project Overview
+### Project Overview
 
 In this project,  worked with real-life data provided by our Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. As a data scientist, used unsupervised learning techniques to organize the general population into clusters, then used those clusters to see which of them comprise the main user base for the company. Prior to applying the machine learning methods, assessed and cleaned the data in order to convert the data into a usable form.
 
