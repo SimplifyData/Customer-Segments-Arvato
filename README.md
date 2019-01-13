@@ -1,4 +1,4 @@
-# Customer Segmention of Arvfato Data
+# Customer Segmention of Arvato Data
 Analyze customers using unsupervised learning, PCA and K-Mean Clustering
 
 ### Project Overview
